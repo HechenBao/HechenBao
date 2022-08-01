@@ -21,7 +21,7 @@
 - 🔬 My research focus on studying mechanisms regulating neurological and neuropsychiatric diseases. 
 - 🐭 My subjects are various mouse models. 
 - 💻 I appreciate the powerful computational tools. 
-- 👶 So I start taking my baby-steps to learn how to program like a pro.
+- 👶 So I start taking my baby-steps to learn how to program and explore my data creatively.
 
 😎 Other fun facts about me. 
 - 😻 I love my cat Hui.  
